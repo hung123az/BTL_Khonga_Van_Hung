@@ -60,11 +60,11 @@ nav ul li a:hover {
     
 }
 .quang-cao #bt1{
-    background-image: url("img/bt1.jpg");
+    background-image: url("bt1.jpg");
     background-size: cover;
 }
 .quang-cao #bt2{
-    background-image: url("img/bt2.png");
+    background-image: url("bt2.png");
     background-size: cover;
 }
 .footer{
